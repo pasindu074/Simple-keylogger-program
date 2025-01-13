@@ -1,2 +1,13 @@
 # Simple-keylogger-program
-A lightweight Python keylogger that records keystrokes and logs them to a text file using the pynput library. This project demonstrates the functionality of keyboard input monitoring for educational and ethical purposes.
+A simple Python keylogger using the `pynput` library.
+
+## Features
+- Logs keystrokes to a file.
+- Supports special keys like Enter, Space, and Backspace.
+
+## Installation
+1. Install Python 3.x.
+2. Install dependencies:
+   ```bash
+   pip install pynput
+
